@@ -60,7 +60,7 @@ module.exports = welcome = async (ikyy, anu) => {
 
           contentText: `halo @${num.split('@')[0]}\nselamat datang di group ${mdata.subject}`,
 
-          footerText: "_Jangan Lupa Subs Yt RIFQI BOTZ_",
+          footerText: "_BOTZ_",
 
           imageMessage: imageMsg,
 
@@ -118,7 +118,7 @@ module.exports = welcome = async (ikyy, anu) => {
 
           contentText: `${out}`,
 
-          footerText: "_Jangan Lupa Subs Yt RIFQI BOTZ_",
+          footerText: "_BOTZ_",
 
           imageMessage: imageMsg,
 
